@@ -1,0 +1,22 @@
+Project: Apple Financial Performance Analysis
+
+Objective:
+Analyze sales and profitability performance across months, countries, products, and business segments.
+
+Key Findings
+Total sales were $118.73M, with $16.89M total profit and a 14.23% profit margin.
+October recorded the highest monthly sales, while sales were considerably lower in several other months.
+Paseo was the highest-performing product by both sales and profit.
+Government generated the highest sales among segments.
+Channel Partners recorded the highest profit margin.
+Enterprise had a negative profit margin, despite generating significant sales.
+France recorded the highest total profit among the countries analyzed.
+Recommendations
+Investigate the causes of Enterprise's negative profitability.
+Analyze what makes Channel Partners highly profitable and identify practices that could be replicated.
+Maintain focus on Paseo, given its strong sales and profit performance.
+Investigate the factors behind the October sales peak.
+Evaluate segments using both sales and profitability, rather than sales alone.
+Conclusion
+
+The analysis shows that strong sales do not necessarily translate into strong profitability. While Government leads in sales, Channel Partners demonstrates superior margin performance, whereas Enterprise requires immediate profitability investigation.
