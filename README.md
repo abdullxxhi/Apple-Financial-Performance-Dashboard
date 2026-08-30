@@ -26,6 +26,7 @@ The project demonstrates practical data analysis, data modeling, DAX, and dashbo
 ## Key Features
 
 ### Executive Overview
+![Overview](screenshots/01-perfomance-dashboard.png)
 
 The Overview page provides:
 
@@ -40,7 +41,7 @@ The Overview page provides:
 - Interactive Country, Segment, and Year filters
 
 ### Profitability Analysis
-
+![Profitability Analysis](screenshots/02-profitability-analysis.png)
 The second page focuses on profitability and includes:
 
 - Profit by country
@@ -82,9 +83,6 @@ The second page focuses on profitability and includes:
 - Business insight generation
 - Data storytelling
 
-## Dashboard Preview
-
-![Dashboard Preview](dashboard-preview.png)
 
 ## Conclusion
 
